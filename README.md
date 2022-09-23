@@ -1,2 +1,3 @@
 # weblabra
   moro
+  nomoromoro
